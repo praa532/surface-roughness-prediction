@@ -1,5 +1,5 @@
 # Surface Roughness Prediction
-# ntroduction
+# Introduction
 This Markdown file documents the M.Tech thesis project on surface roughness prediction using machine learning. The objective of the project was to predict surface roughness using four supervised algorithms: Decision Tree Regressor (DTR), XGBoost, Gradient Boosting Regressor (GBR), and Random Forest (RF).
 
 # Dataset
