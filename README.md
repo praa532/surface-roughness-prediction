@@ -23,6 +23,11 @@ To assess the models, several evaluation metrics were employed, such as Mean Squ
 
 # Results
 The performance of each algorithm was compared based on the evaluation metrics. The results indicated the algorithm that provided the most accurate and reliable surface roughness predictions.
+![Screenshot 2024-04-02 110701](https://github.com/praa532/surface-roughness-prediction/assets/78791408/fd13f042-8f57-4d59-a51e-1c6b88756471)
+![Screenshot 2024-04-02 110620](https://github.com/praa532/surface-roughness-prediction/assets/78791408/a88e2a62-a649-4a65-8e6a-4e4f28d3679e)
+![Screenshot 2024-04-02 110844](https://github.com/praa532/surface-roughness-prediction/assets/78791408/2371559a-67ef-40bc-821f-85c1b22598c9)
+![Screenshot 2024-04-02 110822](https://github.com/praa532/surface-roughness-prediction/assets/78791408/a8fa851e-ff2a-4252-bee0-4778f1430c4f)
+
 
 # Conclusion
 The M.Tech thesis project successfully explored and implemented four supervised machine learning algorithms for surface roughness prediction. The obtained results shed light on which algorithm performed best for this specific task, providing valuable insights for future manufacturing process improvements.
